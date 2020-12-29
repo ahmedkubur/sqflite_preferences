@@ -9,3 +9,7 @@
 ## [0.0.3] - 29/12/2020.
 
 * added example and usage
+
+## [0.0.4] - 29/12/2020.
+
+* Edited readme file 
