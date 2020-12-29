@@ -17,3 +17,7 @@
 ## [0.0.5] - 29/12/2020.
 
 * Edited readme file 
+
+## [0.0.6] - 29/12/2020.
+
+* Edited readme file 

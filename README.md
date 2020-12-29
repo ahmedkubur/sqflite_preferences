@@ -2,7 +2,7 @@
 
 sqflite preferences is an approach to simulate the sharedpreferences behaveir through sqflite library
 
-https://github.com/ahmedkubur/dbHelper
+https://github.com/ahmedkubur/sqflite_preferences
 
 ## Usage
 How to use
