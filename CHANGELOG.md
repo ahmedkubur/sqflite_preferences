@@ -21,3 +21,7 @@
 ## [0.0.6] - 29/12/2020.
 
 * Edited readme file 
+
+## [0.0.7] - 29/12/2020.
+
+* Edited yaml file 

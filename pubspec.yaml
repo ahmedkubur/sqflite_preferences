@@ -1,6 +1,6 @@
 name: sqflite_preferences
 description: sqflite preferences is an approach to simulate the shared preferences behaveir through sqflite library
-version: 0.0.6
+version: 0.0.7
 homepage: https://github.com/ahmedkubur/sqflite_preferences
 
 environment:
