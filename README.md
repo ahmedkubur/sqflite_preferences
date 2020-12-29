@@ -317,4 +317,4 @@ class _Page2State extends State<Page2> {
 
 ## Developed and coded by Ahmed Ismail Kubur - A.I Kubur :) .
 
-### Buy me a cup of coffee BTC Wallet (1LQifVDjgqVTyjZJwixmqEaUk6RyDy7fed).
+### Buy me a cup of coffee - BTC Wallet (1LQifVDjgqVTyjZJwixmqEaUk6RyDy7fed).
