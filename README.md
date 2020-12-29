@@ -7,10 +7,14 @@ https://github.com/ahmedkubur/dbHelper
 ## Usage
 How to use
 
-//import 'package:sqflite_preferences/sqflite_preferences.dart';
+``` dart
 
-reference to our single class that manages the database
-final dbHelper = DatabaseHelper.instance;
+//import the library first
+import 'package:sqflite_preferences/sqflite_preferences.dart';
+//reference to our single class that manages the database
+final sqflitePreferences = DatabaseHelper.instance;
+
+```
 
 to initiate your database
 ``` dart
@@ -311,4 +315,6 @@ class _Page2State extends State<Page2> {
 
 ```
 
-# sqflite_preferences
+## Developed and coded by Ahmed Ismail Kubur - A.I Kubur :)
+
+### Feel free to buy me a cup of coffe BTC Wallet (1LQifVDjgqVTyjZJwixmqEaUk6RyDy7fed) .
