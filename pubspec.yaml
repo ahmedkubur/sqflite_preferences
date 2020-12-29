@@ -1,7 +1,7 @@
 name: sqflite_preferences
 description: sqflite preferences is an approach to simulate the sharedpreferences behaveir through sqflite library
 version: 0.0.3
-homepage: https://github.com/ahmedkubur/dbHelper
+homepage: https://github.com/ahmedkubur/sqflite_preferences
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
