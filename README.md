@@ -315,6 +315,6 @@ class _Page2State extends State<Page2> {
 
 ```
 
-## Developed and coded by Ahmed Ismail Kubur - A.I Kubur :)
+## Developed and coded by Ahmed Ismail Kubur - A.I Kubur :) .
 
-### Feel free to buy me a cup of coffe BTC Wallet (1LQifVDjgqVTyjZJwixmqEaUk6RyDy7fed) .
+### Buy me a cup of coffe BTC Wallet (1LQifVDjgqVTyjZJwixmqEaUk6RyDy7fed).
