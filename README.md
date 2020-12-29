@@ -12,7 +12,7 @@ How to use
 //import the library first
 import 'package:sqflite_preferences/sqflite_preferences.dart';
 //reference to our single class that manages the database
-final sqflitePreferences = DatabaseHelper.instance;
+final dbHelper = DatabaseHelper.instance;
 
 ```
 

@@ -1,11 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:sqflite_preferences/sqflite_preferences.dart';
 
-var dbHelper = DatabaseHelper.instance;
-var value;
 void main() {
   runApp(MyApp());
 }
+
+// reference to our single class that manages the database
+var dbHelper = DatabaseHelper.instance;
+// global variable that takes the value of the sqflite stored data
+var value;
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
