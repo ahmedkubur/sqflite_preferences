@@ -29,3 +29,7 @@
 ## [0.0.8] - 29/12/2020.
 
 * Added example 
+
+## [0.0.9] - 21/02/2020.
+
+* updated pubs files 
